@@ -1,0 +1,6 @@
+#RSA Encrypted Message
+#Sun May 03 14:55:38 EEST 2026
+cipher=3000 1313 745 745 2185 1992 604 2185 2412 745 1773
+message=Hello World
+pub.e=17
+pub.n=3233
