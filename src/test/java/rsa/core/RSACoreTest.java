@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class RSACoreTest {
 
-    @Test void primeCheck() {
+    @Test void primeCheck()  {
         assertTrue(RSACore.isPrime(61));
         assertTrue(RSACore.isPrime(53));
         assertFalse(RSACore.isPrime(1));
